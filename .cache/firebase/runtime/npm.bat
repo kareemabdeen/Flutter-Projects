@@ -1,0 +1,2 @@
+@echo off
+node "C:\snapshot\firepit\node_modules\npm\bin\npm-cli" --script-shell=C:\Users\Kareem\.cache\firebase\runtime/shell.bat --globalconfig=C:\Users\Kareem\.cache\firebase\runtime\npmrc --userconfig=C:\Users\Kareem\.cache\firebase\runtime\npmrc --scripts-prepend-node-path=auto  %*
